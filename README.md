@@ -1,6 +1,6 @@
-# Desktop Pic Visualization App on React Electron
+# Desktop Employees table manipulation with ElectronJS and React
 
-Including filters, share in the cloud, print, copy and save!
+Including searches, graphics and excel manipulation using an easy interface!
 
 ## Running the program
 
